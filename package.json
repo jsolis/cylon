@@ -1,0 +1,25 @@
+{
+  "name": "cylon",
+  "version": "1.0.0",
+  "description": "messing around with cylon JS",
+  "main": "index.js",
+  "dependencies": {
+    "cylon": "^1.1.0",
+    "cylon-gpio": "^0.26.0",
+    "cylon-spark": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cylon",
+    "js",
+    "arduino",
+    "particle",
+    "photon",
+    "spark"
+  ],
+  "author": "jsolis",
+  "license": "ISC"
+}
