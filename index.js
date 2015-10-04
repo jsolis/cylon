@@ -1,6 +1,7 @@
 var Cylon = require('cylon');
 
 // Initialize the api
+// https://127.0.0.1:3000/#/robots/dorito
 Cylon.api('http');
 
 // Initialize the robot
